@@ -1,0 +1,35 @@
+
+.aui-avatar-project::before {
+border-radius: 0;
+border: none;
+border-width: 0;
+}
+ 
+.avatar-img-wrapper, .image-explorer-mask.circle-mask,  .aui-avatar-project, .aui-avatar-project img, .space-logo, .global.logo, .space.logo {
+   border-width: 0;
+   border-radius: 0;
+   box-shadow: none;
+}
+ 
+.acs-side-bar-space-info .avatar-img-container .avatar-img-wrapper, #image-holder .small-logo-container .small-logo-wrapper {
+   border-width: 0;
+   border-radius: 0;
+}
+ 
+ 
+.aui-sidebar-wrapper { 
+    background-color: #ffffff !important; 
+} 
+.acs-side-bar { 
+    background-color: #ffffff !important; 
+} 
+ 
+#space-menu-link-content .space-logo {
+ border-width:0;
+  border-radius: 0;
+}
+.gettingstarted {
+display: none;
+}
+
+
